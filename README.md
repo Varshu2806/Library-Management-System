@@ -24,16 +24,6 @@ This project demonstrates my understanding of core Django features like models, 
 * 🧩 Modular apps: `books`, `users`
 * ✅ Simple UI with functional navigation
 
- 📁 Folder Structure
-Library-Management-System/
-│
-├── library_system/        # Django project configuration
-├── books/                 # Book-related models, views, and templates
-├── users/                 # Login, registration, and user management
-├── templates/             # HTML templates for rendering views
-├── db.sqlite3             # Default SQLite database
-├── manage.py              # Django's CLI tool
-└── requirements.txt       # Python dependencies
 
  🛠️ Installation Instructions
 
